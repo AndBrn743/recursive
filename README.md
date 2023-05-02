@@ -1,8 +1,8 @@
 <p align="center">
-<strong>Want (infrequent) updates on new fonts from Arrow Type?</strong>
+<strong>Want (infrequent) updates on new fonts from ArrowType?</strong>
  </p>
 <p align="center">
-💌 <strong>Sign up for the <a href="https://arrowtype.com/" target="_blank">Arrow Type newsletter!</a></strong> 💌
+💌 <strong>Sign up for the <a href="https://arrowtype.com/" target="_blank">ArrowType newsletter!</a></strong> 💌
 </p>
 <p align="center">
 📝 <strong>Follow <a href="https://instagram.com/arrowtype" target="_blank">@ArrowType</a> on Instagram!</strong> 📝
